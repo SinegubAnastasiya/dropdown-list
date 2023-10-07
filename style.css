@@ -18,7 +18,7 @@
 }
 
 .img {
-    background-image: url(./arrow.svg);
+    background-image: url(./arrowdown.svg);
     background-repeat: no-repeat;
     background-size: contain;
     width: 10px;

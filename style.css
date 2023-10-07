@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+}
+
+.select input {
+    color: #666;
+    font: 400 16px Montserrat;
+    padding: 20px 116px 20px 16px;
+    /* width: 256px; */
+    border-radius: 8px;
+    border-width: 0;
+    background: #FFF;
+    box-shadow: 0px 4px 14px 0px rgba(0, 0, 0, 0.10);
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.img {
+    background-image: url(./arrow.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 10px;
+    height: 5px;
+    display: inline-block;
+    position: relative;
+    right: 30px;
+    bottom: 3px;
+}
+
+.occupation {
+    width: 310px;
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: 0px 4px 14px 0px rgba(0, 0, 0, 0.10);
+}
+
+.occupation p {
+    color: #333;
+    font: 400 16px Montserrat;
+    padding: 13px 155px 13px 12px;
+}
